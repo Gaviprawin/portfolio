@@ -159,7 +159,7 @@ a{
   }
   .btn-pink:hover {
     border: solid 3px var(--bgOrange);
-    color: black;
+    color: rgb(255, 255, 255);
   }
 
   .hero-section-right{
@@ -296,7 +296,7 @@ a{
   }
 
   .project-section{
-    background-color: rgb(201, 254, 183);
+    background-color: rgb(231,231,231);
     margin-top:4rem;
   }
 
@@ -360,7 +360,7 @@ a{
     position:absolute;
     font-size:200px;
     font-weight:600;
-    color:rgb(235, 159, 159);
+    color:white;
     z-index:10;
     /* display:none; */
     opacity: 0;
