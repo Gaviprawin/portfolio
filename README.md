@@ -1,1 +1,1 @@
-https://vercel.com/gaviprawin-ss-projects/gaviportfolio
+https://gaviportfolio.vercel.app/
